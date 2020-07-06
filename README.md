@@ -1,1 +1,1 @@
-# Deep-Learning-Image-Colorization
+# Deep-Learning-Project
