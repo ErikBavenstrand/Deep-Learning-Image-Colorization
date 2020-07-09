@@ -8,10 +8,23 @@
 
 > This project aimed to replicate results of previous papers while performing additional evaluations of colorization techniques.
 
-We applied state of the art image colorization techniques and compared them with more classic deep learning approaches based on regression.
+Image Colorization by Deep Neural Networks is a challanging problem that is actively researched. The project included building a Deep Nerual Network with associated data pipelines and applying state of the art image colorization techniques and comparing them with more classic deep learning approaches based on regression I gained a deeper understanding of the strenghts and weaknesses of both. Results aligned with earlier works in the field was found.
 
 <p align="center">
   <img src="./images/colorization.png" />
+  <p><i>Colorized Images Using a Deep Learning Neural Network</i></p>
 </p>
 
-### Frameworks and Tools
+## Development setup
+
+Python 3.7 with Jupyter Notebook and Tensorflow.
+
+## Meta
+
+> This was a group project done for a course in Deep Learning at KTH.
+
+Erik Båvenstrand – [Portfolio](https://bavenstrand.se) – erik@bavenstrand.se
+
+Distributed under the MIT license. See `LICENSE` for more information.
+
+[github.com/ErikBavenstrand](https://github.com/ErikBavenstrand)
